@@ -32,3 +32,8 @@ yarn-error.log*
 
 # vercel
 .vercel
+.env
+package-lock.json
+package.json
+package.json
+pages/try.http
